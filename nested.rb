@@ -109,10 +109,10 @@ def changing_alan
         :known_for => "Unix",
         :languages => ["C"]
       }
+      
+    }
       programmer_hash[:alan_kay][:known_for] = "GUI"
       return programmer_hash
-    }
-
 end
 
 def adding_to_dennis
